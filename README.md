@@ -3,7 +3,6 @@
 ### My Occupations
 
 **Computer Engineering Undergraduate at UFPA**
-![Progress Bar](https://geps.dev/progress/20)
 *2/10 Semesters Completed (20%)*
 
 **Half-time Researcher at LASSE**
