@@ -3,7 +3,7 @@
 ### My Occupations
 
 **Computer Engineering Undergraduate at UFPA**
-*2/10 Semesters Completed (20%)*
+*2/10 Semesters Completed*
 
 **Half-time Researcher at LASSE**
 *(PIBIC - Institutional Scientific Initiation Scholarship Program)*
