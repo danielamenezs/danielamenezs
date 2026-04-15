@@ -22,7 +22,7 @@ Research focused on adapting classification models into regressors using **Hoeff
 
 ### Stats
 
-![Daniela's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula)
+![Daniela's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielamenezs&show_icons=true&theme=dracula)
 
 ---
 
