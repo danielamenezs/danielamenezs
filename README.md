@@ -12,7 +12,7 @@
 
 <p align="center">
   I am a Computer Engineering undergraduate at UFPA, currently in the 3rd semester.<br>
-  I also work as a half-time researcher at LASSE, focusing on federated learning and Hoeffding Trees.
+  I also work as a half-time researcher at LASSE, focusing on AI, machine learning,federated learning and Hoeffding Trees.
 </p>
 
 ---
